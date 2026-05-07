@@ -98,3 +98,19 @@ High
 
 The domain structure and impersonation behavior strongly indicate phishing or credential harvesting activity.
 
+**Key Learnings**
+
+Through this project, the following cybersecurity concepts were explored :
+
+- Phishing detection techniques
+- URL and domain analysis
+- Typosquatting identification
+- Social engineering tactics
+- Threat intelligence verification using VirusTotal
+- Manual phishing investigation methods
+
+**Conclusion**
+
+- This project demonstrates how phishing attacks use deceptive domains, impersonation techniques, and social engineering tactics to target users.
+- The analysis highlights the importance of manual investigation in addition to automated security tools, since some phishing domains may not yet be detected by antivirus vendors.
+- Identifying suspicious domains, fake branding, and malicious URL structures can help prevent credential theft and cyber attacks.
